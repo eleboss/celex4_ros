@@ -1,0 +1,2 @@
+celex4:dvs_msgs
+-DCATKIN_DEVEL_PREFIX=/home/ubuntu/Documents/celex4_ros/devel -DCMAKE_INSTALL_PREFIX=/home/ubuntu/Documents/celex4_ros/install -G Unix Makefiles

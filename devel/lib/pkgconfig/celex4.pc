@@ -1,0 +1,8 @@
+prefix=/home/ubuntu/Documents/celex4_ros/devel
+
+Name: celex4
+Description: Description of celex4
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/ubuntu/Documents/celex4_ros/devel/lib 
+Requires: cv_bridge dvs_msgs image_transport roscpp roslib sensor_msgs
